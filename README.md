@@ -3,8 +3,8 @@
 
 coding challenge
 
-#index.js
+# index.js
 - answer in JS 
 
-#typescript.ts
+# typescript.ts
 - answer int Typescript form
